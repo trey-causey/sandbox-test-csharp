@@ -20,3 +20,14 @@ C:\My\repos\tests\sandboxes\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netco
 C:\My\repos\tests\sandboxes\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.dev.json
 C:\My\repos\tests\sandboxes\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.dll
 C:\My\repos\tests\sandboxes\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.pdb
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.exe
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.deps.json
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.json
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.runtimeconfig.dev.json
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.dll
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\bin\Debug\netcoreapp3.1\Sandbox.pdb
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.csprojAssemblyReference.cache
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfoInputs.cache
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfo.cs
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.dll
+c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.pdb

@@ -7,19 +7,16 @@ namespace Sandbox.Tests
     public class SolutionTests
     {
         [Fact]
-        public void TestDefangIPaddr()
+        public void Test1()
         {
             //arrange
-            string inputAddress = "1.1.1.1";
-            string expectedOutputAddress = "1[.]1[.]1[.]1";
-            string actualOutputAddress;
-            Solution solutionObject = new Solution();
+           
            
             //act
-            actualOutputAddress = solutionObject.DefangIPaddr(inputAddress);
+            
 
             //assert
-            Assert.Equal(expectedOutputAddress, actualOutputAddress);
+            
             
         }
     }
