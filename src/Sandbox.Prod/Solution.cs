@@ -7,8 +7,6 @@ namespace Sandbox.Prod
     public class Solution
     {
         
-
-        
     }
 
 }

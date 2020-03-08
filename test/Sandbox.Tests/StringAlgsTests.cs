@@ -22,6 +22,21 @@ namespace Sandbox.Tests
             Assert.Equal(expectedOutputAddress, actualOutputAddress);
             
         }
+        [Fact]
+        public void TestNumHewelsInStones()
+        {
+            //arrange
+            string J ="z";
+            string S = "ZZ";
+            int expAns1 = 0;
+            int actAns1;
+            StringAlgs solutionObj = new StringAlgs();
+            //act
+
+            actAns1 = solutionObj.NumJewelsInStones(J, S);
+            //assert
+            Assert.Equal(expAns1, actAns1);
+        }
 
         
     }
