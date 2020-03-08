@@ -28,5 +28,27 @@ namespace Sandbox.Tests
             // Assert.Equal(expAns2, actAns2);
             // Assert.Equal(expAns3, actAns3);
         }
+
+        [Fact]
+        public void TestDecompressRLElist()
+        {
+            //arrange
+           int[] expectedArray1 = {2,4,4,4};
+           int[] expectedArray2 = {1,3,3};
+           int[] actualArray1 = {};
+           int[] actualArray2 = {};
+           int[] nums1 = {1,2,3,4};
+           int[] nums2 = {1,1,2,3};
+           NumberAlgs arrayTestObject1 = new NumberAlgs();
+           
+            //act
+            
+            actualArray1 = arrayTestObject1.DecompressRLElist(nums1);
+            actualArray2 = arrayTestObject1.DecompressRLElist(nums2);
+            //assert
+            Assert.Equal(expectedArray1, actualArray1);
+            Assert.Equal(expectedArray2, actualArray2);
+            
+        }
     }
 }
