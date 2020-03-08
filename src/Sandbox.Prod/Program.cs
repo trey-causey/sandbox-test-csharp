@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Sandbox.Prod
 {
@@ -6,8 +7,16 @@ namespace Sandbox.Prod
     {
         static void Main(string[] args)
         {
-
             
+            
+        }
+
+        public static void printArray(int[] arrayToPrint)
+        {
+            foreach(int e in arrayToPrint)
+            {
+                Console.Write($"{e} ");
+            }
         }
     }
 }

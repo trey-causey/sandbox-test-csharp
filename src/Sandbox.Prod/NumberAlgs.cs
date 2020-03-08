@@ -44,9 +44,27 @@ namespace Sandbox.Prod
         
         }
 
+        public int SubtractProductAndSum(int n) {
+        int prod = 1;
+        int sum = 0;
+        List<int> l = new List<int>();
+        while(n > 0)
+        {
+            l.Add(n%10);
+            n/=10;
+        }
+        
+        foreach(int e in l)
+        {
+            prod*=e;
+            sum+=e;
+        }
+        return (prod - sum);
+        }
+
             
 
-            public void printArray(int[] arrayToPrint)
+        public void printArray(int[] arrayToPrint)
         {
             foreach(int e in arrayToPrint)
             {

@@ -50,5 +50,24 @@ namespace Sandbox.Tests
             Assert.Equal(expectedArray2, actualArray2);
             
         }
+        [Fact]
+        public void TestSubtractProductAndSum()
+        {
+            //arrange 
+            NumberAlgs solObj = new NumberAlgs();
+            int n1 = 234;
+            int n2 = 4421;
+            int expAns1 = 15;
+            int expAns2 = 21;
+            
+            //act
+            int actAns1 = solObj.SubtractProductAndSum(n1);
+            int actAns2 = solObj.SubtractProductAndSum(n2);
+
+            //assert
+            Assert.Equal(expAns1, actAns1);
+            Assert.Equal(expAns2, actAns2);
+
+        }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\my\\repos\\tests\\sandboxes\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj",
+      "projectUniqueName": "C:\\my\\Workspaces\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj",
       "projectName": "Sandbox",
-      "projectPath": "C:\\my\\repos\\tests\\sandboxes\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj",
+      "projectPath": "C:\\my\\Workspaces\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj",
       "packagesPath": "C:\\Users\\TJC\\.nuget\\packages\\",
-      "outputPath": "C:\\my\\repos\\tests\\sandboxes\\sandbox-test-csharp\\src\\Sandbox.Prod\\obj\\",
+      "outputPath": "C:\\my\\Workspaces\\sandbox-test-csharp\\src\\Sandbox.Prod\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TJC\\AppData\\Roaming\\NuGet\\NuGet.Config",
