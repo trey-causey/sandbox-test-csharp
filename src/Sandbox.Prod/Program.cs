@@ -7,8 +7,7 @@ namespace Sandbox.Prod
     {
         static void Main(string[] args)
         {
-            
-            
+                
         }
 
         public static void printArray(int[] arrayToPrint)

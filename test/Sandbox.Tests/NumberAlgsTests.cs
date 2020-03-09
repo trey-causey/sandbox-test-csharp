@@ -69,5 +69,19 @@ namespace Sandbox.Tests
             Assert.Equal(expAns2, actAns2);
 
         }
+
+        [Fact]
+        public void TestFindNumbers()
+        {
+            //arange
+                int[] nums = {12,345,2,6,7896};
+                NumberAlgs numObj = new NumberAlgs();
+                int expAns1 = 2;
+                int actAns1;
+            //act
+                actAns1 = numObj.FindNumbers(nums);
+            //assert
+            Assert.Equal(expAns1, actAns1);
+        }
     }
 }

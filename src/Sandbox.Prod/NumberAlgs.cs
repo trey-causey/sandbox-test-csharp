@@ -45,24 +45,38 @@ namespace Sandbox.Prod
         }
 
         public int SubtractProductAndSum(int n) {
-        int prod = 1;
-        int sum = 0;
-        List<int> l = new List<int>();
-        while(n > 0)
-        {
-            l.Add(n%10);
-            n/=10;
-        }
+        int p =1;
+        int s =0;
         
-        foreach(int e in l)
-        {
-            prod*=e;
-            sum+=e;
-        }
-        return (prod - sum);
+            while(n>0)
+            {
+                int x = n%10;
+                p*=x;
+                s+=x;
+                n/=10;
+            }
+                return p-s;
         }
 
+        public int FindNumbers(int[] nums) {
+            int counter = 0;
+            foreach(int e in nums)
+            {
+                int x = e;
+                List<int> l = new List<int>();
+                while(x>0)
+                {
+                l.Add(x%10);
+                x/=10;
+                }
+                if(l.Count%2==0)
+                {
+                    counter++;
+                }
+            }
             
+            return counter;
+        }
 
         public void printArray(int[] arrayToPrint)
         {
