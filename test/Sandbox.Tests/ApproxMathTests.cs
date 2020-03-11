@@ -17,8 +17,6 @@ namespace Sandbox.Tests
     
             //assert
             Assert.Equal(expected, actual, 9);
-
-        
         }
     }
 }
