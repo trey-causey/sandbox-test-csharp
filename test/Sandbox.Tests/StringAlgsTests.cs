@@ -38,6 +38,21 @@ namespace Sandbox.Tests
             Assert.Equal(expAns1, actAns1);
         }
 
+         [Fact]
+        public void TestBalancedStringSplit()
+        {
+            //arrange
+            string s = "RLRRLLRLRL";
+            var solObj = new StringAlgs();
+            int expAns = 0;
+            int actAns = 4;
+            //act
+            expAns = solObj.BalancedStringSplit(s);
+            //assert
+            Assert.Equal(expAns, actAns);
+
+        }
+
         
     }
 }

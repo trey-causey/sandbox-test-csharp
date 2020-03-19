@@ -9,11 +9,12 @@ namespace Sandbox.Tests
         [Fact]
         public void TestBalancedStringSplit()
         {
-            //act
-            var solObj = new Solution();
             //arrange
-
+            
+            //act
+            
             //assert
+            
 
         }
 
