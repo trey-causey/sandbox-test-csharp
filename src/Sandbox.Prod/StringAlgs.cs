@@ -48,6 +48,22 @@ namespace Sandbox.Prod
             }
         return counter;
         }
+
+        public string RotationalCypher(string s, int o)
+       {    
+           string ABC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+
+           int offset;
+           if(o == 26)
+           {
+            offset = 0;
+           } else {offset = o;}
+           
+           int x = ABC.IndexOf(s);
+           char[] str = ABC.ToCharArray();
+           return str[x + offset].ToString();
+           
+       }
     }
 
     

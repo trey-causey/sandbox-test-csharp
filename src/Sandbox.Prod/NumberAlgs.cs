@@ -78,6 +78,12 @@ namespace Sandbox.Prod
             return counter;
         }
 
+        public int RangeSumBST(TreeNode root, int L, int R) {
+            int sum = 0;
+            
+        return sum;
+    }
+
         public void printArray(int[] arrayToPrint)
         {
             foreach(int e in arrayToPrint)

@@ -83,5 +83,26 @@ namespace Sandbox.Tests
             //assert
             Assert.Equal(expAns1, actAns1);
         }
+/*
+        [Fact]
+        public void TestRangeSum()
+        {
+            //arrange
+            var tSolObj = new Solution();
+            var tree = new List<TreeNode>();
+            int actTNAns;
+            //var root = new TreeNode(0);
+            int L1 = 7;
+            int R1 = 15;
+            int expTNAns = 32;
+            
+
+            //act
+            actTNAns = tSolObj.RangeSumBST(root,L1, R1);
+            //assert
+            Assert.Equal(expTNAns, actTNAns);
+        }
+*/
+        
     }
 }

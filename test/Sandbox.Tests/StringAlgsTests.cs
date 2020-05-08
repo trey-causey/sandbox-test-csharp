@@ -53,6 +53,21 @@ namespace Sandbox.Tests
 
         }
 
+        [Fact]
+        public void TestRotationalCypher()
+        {
+        //arange
+        var solObj = new StringAlgs();
+        string t = "A";
+        int offset = 26;
+        string expStr = "A";
+        string actStr = "";
+        //act 
+        actStr = solObj.RotationalCypher(t,offset);
+        //assert
+        Assert.Equal(expStr,actStr);
+        }
+
         
     }
 }
