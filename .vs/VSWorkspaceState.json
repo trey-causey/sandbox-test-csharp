@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
+    "",
     "\\src",
     "\\src\\Sandbox.Prod",
     "\\test",
     "\\test\\Sandbox.Tests"
   ],
+  "SelectedNode": "\\test\\Sandbox.Tests\\StringAlgsTests.cs",
   "PreviewInSolutionExplorer": false
 }
