@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\my\\repos\\tests\\sandboxes\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj": {}
+    "C:\\My\\Workspaces\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj": {}
   },
   "projects": {
-    "C:\\my\\repos\\tests\\sandboxes\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj": {
+    "C:\\My\\Workspaces\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\my\\repos\\tests\\sandboxes\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj",
+        "projectUniqueName": "C:\\My\\Workspaces\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj",
         "projectName": "Sandbox",
-        "projectPath": "C:\\my\\repos\\tests\\sandboxes\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj",
+        "projectPath": "C:\\My\\Workspaces\\sandbox-test-csharp\\src\\Sandbox.Prod\\Sandbox.csproj",
         "packagesPath": "C:\\Users\\TJC\\.nuget\\packages\\",
-        "outputPath": "C:\\my\\repos\\tests\\sandboxes\\sandbox-test-csharp\\src\\Sandbox.Prod\\obj\\",
+        "outputPath": "C:\\My\\Workspaces\\sandbox-test-csharp\\src\\Sandbox.Prod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TJC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.412\\RuntimeIdentifierGraph.json"
         }
       }
     }

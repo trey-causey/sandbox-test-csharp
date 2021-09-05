@@ -192,3 +192,5 @@ c:\my\Workspaces\sandbox-test-csharp\test\Sandbox.Tests\obj\Debug\netcoreapp3.1\
 c:\my\Workspaces\sandbox-test-csharp\test\Sandbox.Tests\obj\Debug\netcoreapp3.1\Sandbox.Tests.csproj.CopyComplete
 c:\my\Workspaces\sandbox-test-csharp\test\Sandbox.Tests\obj\Debug\netcoreapp3.1\Sandbox.Tests.dll
 c:\my\Workspaces\sandbox-test-csharp\test\Sandbox.Tests\obj\Debug\netcoreapp3.1\Sandbox.Tests.pdb
+C:\My\Workspaces\sandbox-test-csharp\test\Sandbox.Tests\obj\Debug\netcoreapp3.1\Sandbox.Tests.csproj.CoreCompileInputs.cache
+C:\My\Workspaces\sandbox-test-csharp\test\Sandbox.Tests\obj\Debug\netcoreapp3.1\Sandbox.Tests.genruntimeconfig.cache

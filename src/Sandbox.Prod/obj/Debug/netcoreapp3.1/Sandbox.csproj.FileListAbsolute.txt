@@ -31,3 +31,5 @@ c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sa
 c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.AssemblyInfo.cs
 c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.dll
 c:\my\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.pdb
+C:\My\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.csproj.CoreCompileInputs.cache
+C:\My\Workspaces\sandbox-test-csharp\src\Sandbox.Prod\obj\Debug\netcoreapp3.1\Sandbox.genruntimeconfig.cache
